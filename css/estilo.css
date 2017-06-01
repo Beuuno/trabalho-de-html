@@ -1,0 +1,239 @@
+body{
+	background: url(../img/BG.gif) center center fixed;
+	background-size: cover; 
+}
+
+/* ===== FONT ===== */
+
+h3:hover{
+	transition-duration: 0.7;
+	color:red;
+	text-shadow: 2px 2px 40px red;
+
+}
+
+/* ===== Illustrator_Font ===== */
+
+.AE_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Alce_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Chrome_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Cubo_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.G_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Gplus_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Maçã_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Melancia_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Moeda_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Player_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Targaryen_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.The_Flash_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+
+/* ===== Photoshop_Font ===== */
+
+.GIF_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Woman_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.on_the_road_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Foto_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Old_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+.Skull_Font{
+	font-family: arial;
+	color: #fff;
+	text-shadow: 2px 2px 2px black
+}
+
+/* ===== TÍTULO ===== */
+
+h1{
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 300%
+}
+h1:hover{
+	text-shadow: 2px 2px 40px red;
+	color:red;
+}
+
+.AI_Font{
+	color: #fff;
+	margin: 10px 10px 10px 10px
+}
+
+/* ===== IMAGENS ===== */
+
+img{
+	box-shadow: 8px 8px 10px 2px black;
+	border-radius:100%;
+	filter:saturate(0);
+	float:left;
+}
+img:hover{
+	box-shadow: 8px 8px 70px 2px red;
+	cursor:pointer;
+	filter:saturate(1);
+	transform:rotate(360deg);
+	border-radius:100%;
+	transition-duration:0.7s;
+}
+
+/* ===== Photoshop_imgs =====*/
+
+.GIF{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Woman{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.on_the_road{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Foto{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Old{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Skull{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+
+/* ===== Illustrator_imgs ===== */
+
+.AE{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+ }
+.Alce{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Chrome{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Cubo{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Google{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Google_Plus{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Maçã{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Melancia{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Moeda{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Player{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.Targaryen{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
+.The_Flash{
+	margin: 43px 43px;
+	padding: 20px;
+	float:left;
+}
